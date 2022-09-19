@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/Spring%20Boot-2.7.3-brightgreen) ![](https://img.shields.io/badge/Java-11%20%3E-yellow)
 # Spring boot REST API Exception Demo
 ______________
 ### About this Demo:
